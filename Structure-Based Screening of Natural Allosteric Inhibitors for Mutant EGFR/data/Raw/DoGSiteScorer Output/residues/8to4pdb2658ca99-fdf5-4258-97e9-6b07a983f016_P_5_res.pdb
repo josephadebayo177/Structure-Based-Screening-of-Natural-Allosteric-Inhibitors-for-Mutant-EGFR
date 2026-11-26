@@ -1,0 +1,36 @@
+HEADER	Output of DoGSiteScorer by A. Volkamer
+HEADER	Pocket 5 with 30 binding site atoms written.
+HEADER	References: 
+HEADER	A. Volkamer et al. Analyzing the topology of active sites: on the prediction of pockets and subpockets. J. Chem. Inf. Model. 2010,50(11), 2041-52
+HEADER	A. Volkamer et al. Combining global and local measures for structure-based druggability predictions. J. Chem. Inf. Model. 2012,52,360-372
+HEADER	Geometric pocket center at  -2.69   6.52  44.26 with max radius 6.25
+ATOM    717  CG  LEU D 799      -1.512   3.616  40.311  0.00  0.00           C
+ATOM    718  CD1 LEU D 799      -0.796   3.261  41.590  0.00  0.00           C
+ATOM    719  CD2 LEU D 799      -2.204   4.975  40.416  0.00  0.00           C
+ATOM    754  NE  ARG D 803      -3.920   1.554  42.427  0.00  0.00           N
+ATOM    755  CZ  ARG D 803      -4.390   2.788  42.556  0.00  0.00           C
+ATOM    756  NH1 ARG D 803      -5.139   3.341  41.603  0.00  0.00           N
+ATOM    757  NH2 ARG D 803      -4.117   3.477  43.671  0.00  0.00           N
+ATOM   1053  CB  ARG D 841      -0.581   7.964  38.765  0.00  0.00           C
+ATOM   1054  CG  ARG D 841       0.065   9.176  39.348  0.00  0.00           C
+ATOM   1055  CD  ARG D 841      -0.917  10.134  39.966  0.00  0.00           C
+ATOM   1057  CZ  ARG D 841       0.362  11.329  41.686  0.00  0.00           C
+ATOM   1058  NH1 ARG D 841       0.372  10.273  42.479  0.00  0.00           N
+ATOM   1228  CZ2 TRP D 880       0.969   8.212  45.334  0.00  0.00           C
+ATOM   1229  CZ3 TRP D 880       0.143  10.350  46.078  0.00  0.00           C
+ATOM   1230  CH2 TRP D 880      -0.063   9.028  45.674  0.00  0.00           C
+ATOM   1442  CD  GLU D 906       2.572   5.034  43.928  0.00  0.00           C
+ATOM   1444  OE2 GLU D 906       1.435   5.013  43.383  0.00  0.00           O
+ATOM   1481  C   GLY D 911      -1.350   0.276  44.996  0.00  0.00           C
+ATOM   1482  O   GLY D 911      -2.328   1.029  44.932  0.00  0.00           O
+ATOM   1485  C   SER D 912      -1.293   1.879  47.480  0.00  0.00           C
+ATOM   1486  O   SER D 912      -0.590   2.524  46.711  0.00  0.00           O
+ATOM   1489  N   LYS D 913      -1.995   2.431  48.426  0.00  0.00           N
+ATOM   1490  CA  LYS D 913      -2.015   3.865  48.599  0.00  0.00           C
+ATOM   1493  CB  LYS D 913      -3.457   4.305  48.886  0.00  0.00           C
+ATOM   1494  CG  LYS D 913      -4.493   3.714  47.904  0.00  0.00           C
+ATOM   1495  CD  LYS D 913      -5.878   4.376  48.092  0.00  0.00           C
+ATOM   1496  CE  LYS D 913      -6.628   4.553  46.780  0.00  0.00           C
+ATOM   1497  NZ  LYS D 913      -6.419   5.929  46.222  0.00  0.00           N
+ATOM   1503  CG  PRO D 914       0.913   7.147  48.763  0.00  0.00           C
+ATOM   1504  CD  PRO D 914      -0.053   6.071  48.326  0.00  0.00           C
