@@ -168,5 +168,8 @@ All five ligands satisfy Lipinski's oral drug-likeness criteria, with **Nicotina
 
 ## Author
 
-- **Name:** Joseph Olaoluwa Adebayo
-- **Program:** Cohort 6, The Insilico Lab CADD Training
+- **Name:** Adebayo, Joseph Olaoluwa.
+- **Program:** Cohort 6 | The Insilico Lab CADD Training
+
+- ---
+© 2026 Adebayo, Joseph Olaoluwa. All rights reserved. No part of this repository, its figures, or associated data may be copied, reproduced, or redistributed without explicit written permission from the author.
